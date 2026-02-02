@@ -180,8 +180,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**peaske**
-- GitHub: [@peaske](https://github.com/peaske)
+**AXSC-Studio**
+- GitHub: [@AXSC-Studio](https://github.com/AXSC-Studio)
 
 ## 🙏 Acknowledgments
 
@@ -195,6 +195,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by [peaske](https://github.com/peaske)
+Made with ❤️ by [AXSC-Studio](https://github.com/AXSC-Studio)
 
 </div>
