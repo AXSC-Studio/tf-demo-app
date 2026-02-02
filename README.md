@@ -8,7 +8,7 @@
 
 **シンプルで美しいタスク管理アプリケーション**
 
-[🚀 Live Demo](#) | [📖 Documentation](#installation) | [🐛 Report Bug](https://github.com/peaske/tf-demo-app/issues)
+[🚀 Live Demo](#) | [📖 Documentation](#installation) | [🐛 Report Bug](https://github.com/AXSC-Studio/tf-demo-app/issues)
 
 </div>
 
@@ -53,7 +53,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/peaske/tf-demo-app.git
+git clone https://github.com/AXSC-Studio/tf-demo-app.git
 cd tf-demo-app
 ```
 
